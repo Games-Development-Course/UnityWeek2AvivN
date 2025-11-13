@@ -116,5 +116,5 @@ also includes the logic to modify the orthographic size whenever the aspect rati
 # Author:
 Aviv Neeman
 
-Link to itch.io project: 
+Link to itch.io project: https://gamedevteamx.itch.io/farmquest
 
